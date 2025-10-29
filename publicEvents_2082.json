@@ -8229,6 +8229,15 @@
         "chandrama": 23
       },
       "events": [
+         {
+          "jtl": "राष्ट्रिय चलचित्र दिवस",
+          "jds": {
+            "jct": "",
+            "ne": "राष्ट्रिय चलचित्र दिवस",
+            "en": "National Film Day"
+          },
+          "holiday_status": null
+        },
         {
           "jtl": "स्याक्को ट्याक्को",
           "jds": {
@@ -9346,15 +9355,6 @@
         "chandrama": 1
       },
       "events": [
-        {
-          "jtl": "राष्ट्रिय चलचित्र दिवस",
-          "jds": {
-            "jct": "",
-            "ne": "राष्ट्रिय चलचित्र दिवस",
-            "en": "National Film Day"
-          },
-          "holiday_status": null
-        },
         {
           "jtl": "हरिबोधनी एकादशी व्रत",
           "jds": {
